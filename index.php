@@ -17,7 +17,7 @@ and open the template in the editor.
 
         <h1>Formulario de Registro</h1>
         <img src="http://www.mundoimagenes.me/covers/thumbs/imagenes-graciosas-con-frases-para-reirse-para-whatsapp.jpg"/>
-        <h3>Los campos con (*) son requeridos </h3>
+        <h3>Los campos con (*) son requeridos </h3> 
       
         <form action="registro.php" method="post"/>
         <table>
